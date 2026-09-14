@@ -1,7 +1,7 @@
 # David Allen
 
 ## Tool I Use
-(Coming soon)
+I use VS Code regularly as well as Gemini and Claude 
 
 ## What I Hope to Learn
-(Coming soon)
+I want to get more comfortable with Git and also learn the engineering process

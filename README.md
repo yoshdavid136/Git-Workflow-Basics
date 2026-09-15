@@ -1,5 +1,5 @@
 # Git-Workflow-Basics
-This Is the line I am going to be changing.
+This Is the line I am going to be changing. I am changing the line with this sentence.
 
 Jon, David, and Tristan is this group.
 This assignment was learning the basics of Git and GitHub, along with hooking up the SSH key
